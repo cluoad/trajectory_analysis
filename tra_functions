@@ -1,0 +1,7 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+rs_copy(rs):
+  newrs=np.copy(rs)
+  return newrs
+ 
